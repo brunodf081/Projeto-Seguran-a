@@ -46,6 +46,22 @@ O time utiliza o Trello para organizar as tarefas por etapas:
 ---
 ## 🧩 Diagrama de Atividades
 ![Diagrama de Atividade](https://github.com/brunodf081/Projeto-Seguran-a/blob/main/Diagrama%20de%20atividade.jpeg?raw=true)
+--
+## 🐞 Acompanhe os Bugs e Tarefas do Projeto
+
+Você pode acompanhar os bugs, melhorias e tarefas do projeto através da aba **Issues** do repositório.  
+
+
+[➡️ Print das Issues do Projeto](https://github.com/brunodf081/Projeto-Seguran-a/blob/main/imagens/issue_bugtracker.png?raw=true)
+
+---
+
+### 🔹 Como Contribuir
+
+1. Verifique se já existe uma issue semelhante.
+2. Se não existir, clique em **New issue** para criar uma.
+3. Preencha o título e a descrição com informações claras.
+4. Adicione **labels** para categorizar (ex: bug, enhancement, documentation).
 
 
 
