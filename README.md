@@ -19,9 +19,9 @@ Este projeto tem como objetivo explorar, limpar e analisar conjuntos de dados re
 | **Gabriel Leal**   | Validação de Dados              |
 | **Igor Kauã**      | Limpeza de Dados                |
 
-## 📌 Quadro de Tarefas (Trello)
+## 📌 Quadro de Tarefas (Trello atualizado)
 
-![Print do Trello](imagens/tela-trello.png)
+![Print do Trello](https://github.com/brunodf081/Projeto-Seguran-a/blob/main/imagens/trello.png?raw=true)
 
 O time utiliza o Trello para organizar as tarefas por etapas:
 
