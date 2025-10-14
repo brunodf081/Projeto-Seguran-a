@@ -43,5 +43,9 @@ O time utiliza o Trello para organizar as tarefas por etapas:
 8. [Story 8 – Tipos de ocorrências](https://www.figma.com/make/UM9zZRwLMUQX0yWA1z3bve/Acesso-a-Ocorr%C3%AAncias-Categorizadas?node-id=0-1)
 9. [Story 9 – Integridade dos registros da Defesa Civil](https://www.figma.com/make/1NDaJwmy4rhl6GBTzpjtR5/Garantir-Integridade-de-Dados?node-id=0-1)
 10. [Story 10 – Visão integrada de serviços públicos](https://www.figma.com/make/q6DUjEjkmouvKxnC9kkGBY/Vis%C3%A3o-Integrada-de-Servi%C3%A7os?node-id=0-1)
+---
+## 🧩 Diagrama de Atividades
+![Diagrama de Atividade](https://github.com/brunodf081/Projeto-Seguran-a/blob/main/Diagrama%20de%20atividade.jpeg?raw=true)
+
 
 
