@@ -52,7 +52,7 @@ O time utiliza o Trello para organizar as tarefas por etapas:
 Você pode acompanhar os bugs, melhorias e tarefas do projeto através da aba **Issues** do repositório.  
 
 
-[➡️ Print das Issues do Projeto](https://github.com/brunodf081/Projeto-Seguran-a/blob/main/imagens/issue_bugtracker.png?raw=true)
+![➡️ Print Issues do projeto](https://github.com/brunodf081/Projeto-Seguran-a/blob/main/imagens/issue_bugtracker.png?raw=true)
 
 ---
 
