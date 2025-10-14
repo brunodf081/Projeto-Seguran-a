@@ -18,6 +18,7 @@ Este projeto tem como objetivo explorar, limpar e analisar conjuntos de dados re
 | **Matheus Conolly**| Análise Exploratória            |
 | **Gabriel Leal**   | Validação de Dados              |
 | **Igor Kauã**      | Limpeza de Dados                |
+| **Vinicius Mendes**| Coleta/Aquisição de Dados       |
 
 ## 📌 Quadro de Tarefas (Trello atualizado)
 
