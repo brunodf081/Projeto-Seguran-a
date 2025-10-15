@@ -41,7 +41,7 @@ O time utiliza o Trello para organizar as tarefas por etapas:
 5. [Story 5 – Centralizar informações de bibliotecas](https://www.figma.com/make/akplWTsXx6tPbTX8zLtJtZ/Centralizar-Informa%C3%A7%C3%B5es-de-Bibliotecas?node-id=0-1&p=f&t=sStsx1gnNUxvCORP-0&fullscreen=1)
 6. [Story 6 – Relacionamento de computadores e bibliotecas](https://www.figma.com/make/XR03KHsySQAZ9ZFOfMBqu8/Padronizar-Registros-de-Bibliotecas?node-id=0-1&p=f&t=3PsKJxTbb1RRW75o-0&fullscreen=1)
 7. [Story 7 – Ocorrências por bairro](https://www.figma.com/make/rfk0ZdTeLRmAJ8LBFMiWC0/Visualizar-Ocorr%C3%AAncias-por-Bairro?node-id=0-1&p=f&t=bP6M9o6KelpPRslh-0&fullscreen=1)
-8. [Story 8 – Tipos de ocorrências](https://www.figma.com/make/UM9zZRwLMUQX0yWA1z3bve/Acesso-a-Ocorr%C3%AAncias-Categorizadas?node-id=0-1)
+8. [Story 8 – Tipos de ocorrências](https://www.figma.com/make/UM9zZRwLMUQX0yWA1z3bve/Acesso-a-Ocorr%C3%AAncias-Categorizadas?node-id=0-1&p=f&t=lry3mPWfZYwuC7GO-0&fullscreen=1)
 9. [Story 9 – Integridade dos registros da Defesa Civil](https://www.figma.com/make/1NDaJwmy4rhl6GBTzpjtR5/Garantir-Integridade-de-Dados?node-id=0-1&p=f&t=7jY1xNtEZw3kiNGk-0&fullscreen=1)
 10. [Story 10 – Visão integrada de serviços públicos](https://www.figma.com/make/q6DUjEjkmouvKxnC9kkGBY/Vis%C3%A3o-Integrada-de-Servi%C3%A7os?node-id=0-1&p=f&t=aC2sheJyT2ocUp3I-0&fullscreen=1)
 ---
